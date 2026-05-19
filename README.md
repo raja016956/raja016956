@@ -253,6 +253,20 @@ Designed an automated Salesforce lead-processing pipeline with validation, audit
 
 # 💼 Freelance Services
 
+I provide freelance services on Upwork in both research and business domains.
+
+<div align="center">
+
+<a href="https://www.upwork.com/freelancers/~012a0e598d0c779e27?mp_source=share">
+
+<img src="https://img.shields.io/badge/View%20My-Upwork%20Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+
+</a>
+
+</div>
+
+<br>
+
 <table>
 <tr>
 
@@ -295,7 +309,7 @@ Designed an automated Salesforce lead-processing pipeline with validation, audit
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<br><br>
+<br>
 
 ### Bioinformatics & AI
 
@@ -307,17 +321,6 @@ Designed an automated Salesforce lead-processing pipeline with validation, audit
 
 </div>
 
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raja016956&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raja016956&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
