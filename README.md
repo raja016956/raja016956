@@ -8,10 +8,8 @@
 
 <img src="https://img.shields.io/badge/FOCUS-Computational%20Biology-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/DATA-Analytics%20%26%20Automation-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESEARCH-Bioinformatics-FF4FD8?style=for-the-badge"/>
-
 <br>
-
+<img src="https://img.shields.io/badge/RESEARCH-Bioinformatics-FF4FD8?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=raja016956&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
@@ -373,5 +371,3 @@ I am open to:
 ### 💡 Exploring the intersection of Biology, Data, AI, and Automation
 
 </div>
-
-:contentReference[oaicite:0]{index=0}
