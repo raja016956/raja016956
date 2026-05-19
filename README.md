@@ -1,10 +1,26 @@
 <div align="center">
 
-# 👩‍🔬 Ghulam Fatima Memon
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Ghulam+Fatima+Memon;Computational+Biologist+%7C+Data+Analyst;Bioinformatics+%7C+AI+%26+Automation;Transforming+Data+into+Biological+Insights" />
 
-### Computational Biology • Data Analytics • AI & Automation
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=Computational+Biology+%7C+Bioinformatics+Research;Data+Analyst+%7C+Power+BI+%7C+SQL;AI+Automation+%7C+RAG+%7C+API+Workflows;Single-Cell+Transcriptomics+%26+Drug+Discovery;Freelancer+serving+research+and+business+clients" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/FOCUS-Computational%20Biology-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA-Analytics%20%26%20Automation-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESEARCH-Bioinformatics-FF4FD8?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=raja016956&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🧬 Computational Biology | Bioinformatics | AI & Automation
+
+### Transforming Biological & Business Data into Meaningful Insights
 
 </div>
 
@@ -18,15 +34,19 @@ I am a Computer Science student working at the intersection of:
 - 📊 Data Analytics & Visualization
 - 🤖 AI & Workflow Automation
 
-My work combines scientific research with practical business analytics and automation systems.
+My work combines scientific research with practical business analytics and intelligent automation systems.
 
-I build:
-- Research-oriented computational biology projects
+Currently, I work as a:
+- Computational biology researcher
+- Freelance data analyst
+- AI automation developer
+
+I enjoy building:
+- Bioinformatics pipelines
 - AI-powered analytical systems
-- Interactive dashboards and automation workflows
-- Data-driven solutions for academic and business clients
-
-Currently, I work as a **freelance data analyst and AI automation developer**, while also building research projects in computational biology and machine learning.
+- Interactive dashboards
+- Automation workflows
+- Research-oriented machine learning projects
 
 ---
 
@@ -36,36 +56,50 @@ Currently, I work as a **freelance data analyst and AI automation developer**, w
 
 <a href="https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/" target="_blank">
 
-<img src="https://github.com/raja016956/raja016956/blob/main/portfolio.png" width="900"/>
+<img src="https://github.com/raja016956/raja016956/blob/main/portfolio.png" width="950"/>
 
 </a>
 
-</div>
+### 🚀 Click the preview above to explore my portfolio
 
-### 🔗 Live Portfolio
+💬 Feel free to test the AI chatbot and explore my projects.  
+I would genuinely appreciate feedback and reviews.
 
 </div>
 
 ---
 
-
 # 🔬 Research & Technical Focus
 
-## Computational Biology
-- Single-cell RNA sequencing (scRNA-seq)
+<table>
+<tr>
+
+<td width="50%">
+
+## 🧬 Computational Biology
+- Single-cell RNA sequencing
 - Tumor microenvironment analysis
-- Explainable AI in biology
 - Computational cancer biology
 - Protein language models
 - QSAR & cheminformatics
+- Explainable AI in biology
 
-## Data Analytics & Automation
+</td>
+
+<td width="50%">
+
+## 📊 Analytics & Automation
 - Power BI dashboards
 - KPI analytics
-- SQL-based reporting
+- SQL reporting
 - API integrations
 - AI workflow automation
 - RAG systems & LLM integration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -80,7 +114,7 @@ Currently, I work as a **freelance data analyst and AI automation developer**, w
 
 ### Single-cell transcriptomics meets cancer immunology
 
-Comprehensive analysis of tumor immune microenvironment using state-of-the-art single-cell RNA-seq workflows.
+Comprehensive analysis of tumor immune microenvironment using advanced scRNA-seq workflows.
 
 ### Highlights
 - Immune-state characterization
@@ -187,9 +221,6 @@ Built a portfolio chatbot using RAG and semantic search to answer questions abou
 
 🔗 [Live Demo](https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/)
 
-💬 Feel free to test the chatbot and explore the portfolio.  
-I would genuinely appreciate feedback and reviews.
-
 </td>
 
 <td width="50%">
@@ -216,70 +247,63 @@ Designed an automated Salesforce lead-processing pipeline with validation, audit
 </tr>
 </table>
 
+---
+
 # 💼 Freelance Services
 
-I provide freelance services in both research and business domains.
+<table>
+<tr>
 
-## 🧬 Computational Biology & Research
-- Bioinformatics workflows
+<td width="50%">
+
+## 🧬 Research & Bioinformatics
 - scRNA-seq analysis
 - Research data analysis
-- AI for biological datasets
+- Bioinformatics workflows
 - Scientific visualizations
+- AI for biological datasets
 
-## 📊 Data Analytics & Automation
+</td>
+
+<td width="50%">
+
+## 📊 Analytics & Automation
 - Power BI dashboards
-- Data cleaning & validation
-- KPI reporting
 - SQL analytics
+- KPI reporting
 - AI automation systems
 - API integrations
+- Data validation pipelines
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-## Programming
+<div align="center">
 
-<p>
+### Programming & Data
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
-</p>
-
----
-
-## Data Analytics
-
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
 
----
+<br><br>
 
-## Bioinformatics & AI
+### Bioinformatics & AI
 
-<p>
 <img src="https://img.shields.io/badge/Scanpy-1E88E5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RDKit-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESM--2-8E24AA?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
----
-
-## Automation & Deployment
-
-<p>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integration-FF6F61?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG_Systems-7B1FA2?style=for-the-badge"/>
-</p>
+</div>
 
 ---
 
@@ -297,7 +321,7 @@ I provide freelance services in both research and business domains.
 
 # 🌱 Currently Learning
 
-- Advanced single-cell analysis
+- Advanced scRNA-seq analysis
 - Multi-omics integration
 - AI agents & automation
 - Deep learning for biology
@@ -305,15 +329,29 @@ I provide freelance services in both research and business domains.
 
 ---
 
+# 🤝 Open to Collaborations & Opportunities
+
+I am open to:
+- Research collaborations
+- Bioinformatics projects
+- AI & automation systems
+- Freelance opportunities
+- Data analytics projects
+- Research internships
+
+📫 Don’t hesitate to get in touch.
+
+---
+
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/raja016956">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="www.linkedin.com/in/ghulam-fatima-memon-84163a1aa">
+<a href="https://www.linkedin.com/in/ghulam-fatima-memon-84163a1aa">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -321,7 +359,7 @@ I provide freelance services in both research and business domains.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
