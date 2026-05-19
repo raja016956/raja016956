@@ -36,12 +36,13 @@ Currently, I work as a **freelance data analyst and AI automation developer**, w
 
 <a href="https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/" target="_blank">
 
-<img src="https://raw.githubusercontent.com/raja016956/raja016956/main/assets/portfolio-preview.png" width="900"/>
+<img src="https://github.com/raja016956/raja016956/blob/main/portfolio.png" width="900"/>
 
 </a>
 
+</div>
+
 ### 🔗 Live Portfolio
-### https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/
 
 </div>
 
@@ -70,63 +71,150 @@ Currently, I work as a **freelance data analyst and AI automation developer**, w
 
 # 🚀 Featured Computational Biology Projects
 
-## 🧬 Explainable AI Modeling of Non-Coding RNA in the Tumor Microenvironment
+<table>
+<tr>
 
-- Analysis of >200,000 single cells
-- Immune-state classification using Random Forest
-- Explainable AI for lncRNA discovery
-- Cross-cancer validation of NEAT1
+<td width="50%">
 
-🔗 Repository:  
-https://github.com/raja016956/My_Projects/blob/main/NEAT1_Links_Immune_Exclusion_and_Tumor_Metabolism.ipynb
+## 🧬 scRNA-seq Tumor Immune Analysis
 
----
+### Single-cell transcriptomics meets cancer immunology
 
-## 🧫 Single-Cell Analysis of the Tumor Immune Microenvironment
+Comprehensive analysis of tumor immune microenvironment using state-of-the-art single-cell RNA-seq workflows.
 
-- Immune heterogeneity analysis
-- Cell clustering and annotation
+### Highlights
+- Immune-state characterization
+- Cell clustering & annotation
 - Biomarker expression analysis
-- Tumor immune-state characterization
+- Tumor heterogeneity exploration
 
-🔗 Repository:  
-https://github.com/raja016956/My_Projects/blob/main/Single-Cell%20Analysis%20of%20the%20Tumor%20Immune%20Microenvironment.md
+`Python` `Scanpy` `scRNA-seq` `Bioinformatics`
 
+🔗 [View Project](https://github.com/raja016956/Computational-Biology-Portfolio/blob/main/Single-Cell%20Analysis%20of%20the%20Tumor%20Immune%20Microenvironment.md)
+
+</td>
+
+<td width="50%">
+
+## 🧠 Explainable AI for lncRNA Discovery
+
+### AI-driven immune exclusion modeling
+
+Used explainable AI and Random Forest modeling to identify lncRNAs associated with immune-excluded tumor states.
+
+### Highlights
+- Explainable AI (XAI)
+- NEAT1 & MALAT1 analysis
+- Immune-state classification
+- Cross-cancer validation
+
+`Machine Learning` `XAI` `scRNA-seq` `Random Forest`
+
+🔗 [View Project](https://github.com/raja016956/Computational-Biology-Portfolio/blob/main/NEAT1_Links_Immune_Exclusion_and_Tumor_Metabolism.ipynb)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💊 QSAR Modeling of EGFR Inhibitors
+
+### Machine learning for drug discovery
+
+Built predictive QSAR models using ChEMBL bioactivity data for virtual screening of EGFR inhibitors.
+
+### Highlights
+- XGBoost QSAR models
+- Molecular descriptors
+- Virtual screening
+- Streamlit deployment
+
+`Python` `RDKit` `XGBoost` `Cheminformatics`
+
+🔗 [View Project](https://github.com/raja016956/Computational-Biology-Portfolio/blob/main/AI_Powered_QSAR_Modelling_of_Bioactive_Compounds.ipynb)
+
+</td>
+
+<td width="50%">
+
+## 🧬 Protein Language Model–Guided Design
+
+### AI-assisted protein engineering
+
+Applied ESM-2 protein language models for evolutionary representation learning and conservative variant generation.
+
+### Highlights
+- ESM-2 embeddings
+- Protein representation learning
+- Evolutionary analysis
+- Variant generation
+
+`Transformers` `PyTorch` `ESM-2` `Protein AI`
+
+🔗 [View Project](https://github.com/raja016956/Computational-Biology-Portfolio/blob/main/Protein%20Language%20Model%E2%80%93Guided%20Variant%20Design%20of%20GAPDH.md)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 📊 Featured Analytics & Automation Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🤖 AI Portfolio Assistant Chatbot
 
-I built an AI-powered portfolio assistant integrated into my website to answer questions about my projects, skills, and research interests.
+### AI-powered portfolio interaction system
 
-### Features
-- Semantic search & RAG
-- AI-powered responses
-- Lead capture & analytics
-- Research/project guidance
-- Portfolio interaction assistant
+Built a portfolio chatbot using RAG and semantic search to answer questions about projects, skills, and research interests.
 
-🔗 Try it here:  
-https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/
+### Highlights
+- RAG architecture
+- Semantic search
+- Lead capture system
+- AI assistant workflows
+- Visitor analytics integration
+
+`React` `Supabase` `Groq API` `RAG`
+
+🔗 [Live Demo](https://my-portfolio-woad-nine-pxv516qb9d.vercel.app/)
 
 💬 Feel free to test the chatbot and explore the portfolio.  
 I would genuinely appreciate feedback and reviews.
 
----
+</td>
 
-## 🔄 Lead Automation & CRM Workflow System
+<td width="50%">
 
-- Automated API-based workflows
-- Lead scoring systems
-- Email automation
-- Serverless architecture integrations
+## 📊 Salesforce Data Integrity Pipeline
 
-### Tools
-`APIs` `Supabase` `Resend` `Google Sheets API`
+### CRM validation & automation workflow
 
----
+Designed an automated Salesforce lead-processing pipeline with validation, audit logging, and API-driven CRM automation.
+
+### Highlights
+- CSV lead ingestion
+- Validation rule engine
+- Salesforce REST API integration
+- Jira issue automation
+- Audit logging system
+
+`Python` `Salesforce API` `Automation` `CRM`
+
+🔗 [View Project](https://github.com/raja016956/Salesforce-Data-Integrity-Validation-Pipeline)
+
+</td>
+
+</tr>
+</table>
 
 # 💼 Freelance Services
 
