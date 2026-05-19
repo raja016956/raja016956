@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1200&color=00D9FF&center=true&vCenter=true&width=1000&lines=Ghulam+Fatima+Memon;Computational+Biologist+%7C+Data+Analyst;Bioinformatics+%7C+AI+%26+Automation;Transforming+Data+into+Biological+Insights" />
+# 👩‍🔬 Ghulam Fatima Memon
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1400&color=00D9FF&center=true&vCenter=true&width=900&lines=Computational+Biologist;Bioinformatics+Researcher;Data+Analyst;AI+%26+Automation+Developer;Single-Cell+Transcriptomics+Research;Transforming+Data+into+Meaningful+Insights" />
 
 <br>
 
@@ -8,7 +10,7 @@
 <img src="https://img.shields.io/badge/DATA-Analytics%20%26%20Automation-7B61FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RESEARCH-Bioinformatics-FF4FD8?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=raja016956&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
